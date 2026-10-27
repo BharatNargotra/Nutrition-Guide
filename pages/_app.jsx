@@ -7,7 +7,7 @@ export default function App({ Component, pageProps }) {
       <Component {...pageProps} />
       <script
           src="https://cairasearch.grapinelabs.com/caira-search.min.js"
-          data-caira-site="cs_cswy3b2rs7eyndhw1n1py3bb"
+          data-caira-site="cs_b7bv1v014v6aqw5009wr4bkj"
           async
         ></script>
     </>
